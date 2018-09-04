@@ -1,0 +1,10 @@
+com\testtask\service\ServiceImp.class
+com\testtask\config\WebAppInit.class
+com\testtask\service\Service.class
+com\testtask\config\SpringConfig.class
+com\testtask\entity\Category.class
+com\testtask\config\WebConfig.class
+com\testtask\controller\ArticleController.class
+com\testtask\entity\Article.class
+com\testtask\dao\ArticleDAOImp.class
+com\testtask\dao\ArticleDAO.class
